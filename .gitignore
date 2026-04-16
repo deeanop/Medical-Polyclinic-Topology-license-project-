@@ -1,0 +1,28 @@
+# GNS3 project files (temporare / cache)
+*.log
+*.tmp
+*.bak
+
+# Directoare generate automat
+project-files/
+snapshots/
+
+# Imagini disk / appliance (FOARTE MARI)
+*.qcow2
+*.img
+*.bin
+*.vmdk
+*.iso
+
+# Configuri locale / cache
+*.lock
+*.swp
+*.cache
+
+# Python (dacă folosești scripturi)
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
